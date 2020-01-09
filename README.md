@@ -1,4 +1,4 @@
-# asklucas ![asklucaslogo]('images/logo.png')
+# asklucas ![asklucaslogo]('https://github.com/lucasnevespereira/asklucas-flutter/blob/master/images/logo.png?raw=true')
 
 A simple decision app , based on magic ball concept.
 
