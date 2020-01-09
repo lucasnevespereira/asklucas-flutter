@@ -1,4 +1,4 @@
-# asklucas
+# asklucas ![asklucaslogo]('images/logo.png')
 
 A simple decision app , based on magic ball concept.
 
